@@ -5,7 +5,7 @@
 <h3 align="center">Collaborating globally, innovating locally—bridging tech between Ethiopia and the world !
  </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/amanuel-alex" alt="amanuel-alex" /></a> </p> 
+
 
 - 🔭 I’m currently working on **Local market site**
 
